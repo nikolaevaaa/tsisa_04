@@ -7,3 +7,5 @@
 Результат раоты программы:
 
 ![](https://github.com/nikolaevaaa/tsisa_04/blob/main/lab_04CORRECT.png?raw=true)
+График функции: 
+![](https://github.com/nikolaevaaa/tsisa_04/blob/main/graph.png?raw=true)
